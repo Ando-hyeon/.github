@@ -1,12 +1,17 @@
 # Ando_hyeon
 
->**안** 전한 <br>
->**도** 시의 <br>
->**현** 위치 <br>
 
-## 2023 DSM hackathon
 
-![Group 18422](https://github.com/Ando-hyeon/.github/assets/59428479/b57fee74-65c5-4604-8dc7-437fb229a510)
+<p align="center"><img src=https://github.com/Ando-hyeon/.github/assets/59428479/b57fee74-65c5-4604-8dc7-437fb229a510></p>
+<h1 align="center">
+2023 DSM hackathon
+</h1>
+
+<p align="center" style="font-size: 1.2rem;"> 
+  안도현은 사용자가 게시한 게시물과 뉴스에서 도시 리뷰와 함께, ClovaAPI를 통해 리뷰에서 감정을 추출하여 객관적인 평가를 제공합니다.
+</p>
+
+
 
 <br>
 <br>
