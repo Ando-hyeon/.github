@@ -5,10 +5,11 @@
 >**현** 위치 <br>
 
 ## 2023 DSM hackathon
+
+![Group 18422](https://github.com/Ando-hyeon/.github/assets/59428479/b57fee74-65c5-4604-8dc7-437fb229a510)
+
 <br>
 <br>
-
-
 
 <div>
   
