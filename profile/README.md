@@ -12,7 +12,7 @@
 </p>
 
 
-[![Video](https://github.com/Ando-hyeon/.github/assets/59428479/2fc8592b-1a07-4b67-aa13-acb661d470e0)](https://youtu.be/vt5fpE0bzSY)
+[![Video](https://github-production-user-asset-6210df.s3.amazonaws.com/59428479/263869830-2fc8592b-1a07-4b67-aa13-acb661d470e0.png)](https://youtu.be/vt5fpE0bzSY)
 
 <br>
 <br>
