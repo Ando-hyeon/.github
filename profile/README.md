@@ -12,7 +12,7 @@
 </p>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7oLZWGH7E4o?si=LDJa7s2us8eocr89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video](https://github.com/Ando-hyeon/.github/assets/59428479/2fc8592b-1a07-4b67-aa13-acb661d470e0)(https://youtu.be/vt5fpE0bzSY)
 
 <br>
 <br>
