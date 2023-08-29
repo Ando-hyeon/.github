@@ -11,7 +11,10 @@
   안도현은 사용자가 게시한 게시물과 뉴스에서 도시 리뷰와 함께, ClovaAPI를 통해 리뷰에서 감정을 추출하여 객관적인 평가를 제공합니다.
 </p>
 
-
+<p align="center">
+  
+  [![Video Label](http://img.youtube.com/vi/7oLZWGH7E4o/0.jpg)](https://youtu.be/7oLZWGH7E4o)
+</p>
 
 <br>
 <br>
